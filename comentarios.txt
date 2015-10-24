@@ -11,7 +11,7 @@
 
 
 #Tiago
-
+Perfeito esse Dojo do GDGManaus
 
 #Gabriel
 Gostei muito de praticar versionamento de codigo.
