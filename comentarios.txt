@@ -8,8 +8,8 @@ Estou gostando de entender como o Git funciona :)
 #Marcelo
 Da hora demais praticar versionamento de codigo com V6.
 
-#Messias
-
+#Messias 
+Muito bom o treinamento :D 
 
 #Tiago
 Perfeito esse Dojo do GDGManaus
