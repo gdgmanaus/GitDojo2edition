@@ -1,4 +1,4 @@
-#Josiane
+#Josiane Rodrigues
 Estou gostando de entender como o Git funciona :)
 
 
