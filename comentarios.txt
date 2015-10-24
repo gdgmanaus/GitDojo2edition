@@ -6,7 +6,7 @@ Estou gostando de entender como o Git funciona :)
 
 
 #Marcelo
-
+Da hora demais praticar versionamento de codigo com V6.
 
 #Messias
 
